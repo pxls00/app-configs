@@ -1,5 +1,8 @@
 app configs
 
+gitignore
+  /.gitignore
+
 tsconfig for vue 3
   /tsconfig.json + /tsconfig.config.json
 
@@ -11,6 +14,10 @@ eslintrc + prettier config for vue3 app eslint ['plugin:vue/vue3-recommended', '
 
 eslintignore
   /.eslintignore
+
+shims-vue.d.ts for vue3 typescript apps
+  /shims-vue.d.ts
+  
 
 
 
