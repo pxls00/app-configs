@@ -18,6 +18,10 @@ eslintignore
 shims-vue.d.ts for vue3 typescript apps
   /shims-vue.d.ts
   
+normalize css
+  /normalize.css
 
+docker + dockerignore
+  /Dockerfile + .dockerignore
 
 
