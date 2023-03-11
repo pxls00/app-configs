@@ -1,0 +1,1 @@
+in this directory all files or directories just transfers to dist/favicon/ , so you can add there favicon files and videos

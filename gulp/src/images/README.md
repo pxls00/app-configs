@@ -1,0 +1,1 @@
+images have 2 types that's when you running build:dev they not compiles with minified and .webp      extension so you need compile them first build:prod and use from 'images/' to dist/images/
