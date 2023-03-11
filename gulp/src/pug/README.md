@@ -1,0 +1,1 @@
+pug you can create pug files in everywhere in directory src/ but only files that created in src/ folder they comiles to .html and another files that created in pug/ folder they just be pug component recomends create pug components in (pug/) folder, files have been created in folder src/ they compiles to dist/

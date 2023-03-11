@@ -1,0 +1,1 @@
+fonts transfers to dist/fonts recomends (.woff, woff2)

@@ -1,0 +1,2 @@
+svg, svg compiles with svg-store and svg-styles you need to create all svg files in svg/sprite_*.svg
+  so then they adds to svg transfer and unnecessary svg file then they compiles to dist/svgmin/sprite_icons.svg

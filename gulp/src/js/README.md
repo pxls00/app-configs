@@ -1,0 +1,1 @@
+js when you running dev they just dests to dist/js from 'js/' if you run prod all js files minifies and compiles to es5 and adds .min to all minified files
