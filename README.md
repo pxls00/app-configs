@@ -18,10 +18,18 @@ eslintignore
 shims-vue.d.ts for vue3 typescript apps
   /shims-vue.d.ts
   
-normalize css
-  /normalize.css
+normalize + smartgrid
+  /styles/normalize.css + /styles/smart-grid.scss
 
 docker + dockerignore
   /Dockerfile + .dockerignore
+
+gulp config
+  /gulp
+
+vue3-jest config with ts
+  /vue-3-test-config
+
+
 
 
