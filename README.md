@@ -1,5 +1,3 @@
-app configs
-
 gitignore
   /.gitignore
 
